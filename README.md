@@ -9,7 +9,7 @@ The course focuses on learning how common technical tools work together in a rea
 
 ## Who This Repository Is For
 
-This repository is designed for beginners who want to build a technical foundation before moving into areas such as:
+This repository is designed for beginners who want to build a technical foundation before moving into areas such as.
 
 - Cloud Engineering
 - DevOps
